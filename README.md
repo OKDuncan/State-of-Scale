@@ -1,5 +1,9 @@
 # State-of-Scale
-State of Scale <a href="stateofscale.com"> is an educational hackathon event focused on unlocking the potential for L2 solutions to enable development of usable blockchain (re: Ethereum) applications.
+State of Scale 
+
+<a href="stateofscale.com"> 
+
+is an educational hackathon event focused on unlocking the potential for L2 solutions to enable development of usable blockchain (re: Ethereum) applications.
 
 Thanks for joining in on this journey of hackathondome. This is the first inagural Ethereum focused hackathon in the city of Los Angeles, and has been an event where L2 teams across the ecosystem come to congregate, educate each other, and find new ways to leverage this emerging technology.
 
