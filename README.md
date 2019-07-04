@@ -10,6 +10,8 @@ This repo is meant to coordinate the bounties put up for the hackathon. Instruct
 3. Submitt bounty through Metamask.
 4. Once submitted please send a link to support@stateofscale.com.
 
-Excellent, tyty, will be in touch with next steps soon.
+There will be a discord server we will direct hackers to discuss details with bounty sponsors throughout the hackathon.
+
+Excellent, tyty, will be in touch soon. 
 
 ~The State of Scale Crew
