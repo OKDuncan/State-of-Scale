@@ -7,7 +7,7 @@ This repo is meant to coordinate the bounties put up for the hackathon.
 
 Instructions for bounty sponsors below:
 
-1. Create description of issue in this repo, or your own team repo. This description should clearly indicate what factors the hackathon projects must incorporate to qualify for your prize.
+1. Create description of issue in this repo, or your own team repo. This should define 1) Project Description, 2) Submission Requirements, 3) Judging Criteria.
 2. Fill this [form](https://gitcoin.co/funding/new?type=public) (_NOTE_ Project Type = Public, Bounty Settings = Contest & Permissionless).
 3. Submitt bounty through Metamask.
 4. Once submitted please send a link to support@stateofscale.com.
